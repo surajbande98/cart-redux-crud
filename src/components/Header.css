@@ -1,0 +1,7 @@
+.smallclose {
+    position: absolute;
+    top: 2px;
+    right: 20px;
+    font-size: 23px;
+    cursor:pointer
+}
